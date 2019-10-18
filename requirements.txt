@@ -41,7 +41,7 @@ PyJWT==1.7.1
 pylint==2.3.1
 PyMySQL==0.9.3
 python-dateutil==2.8.0
-python-engineio==3.4.3
+python-engineio==3.8.2.post1
 python-socketio==3.1.2
 pytz==2018.9
 query-string==2019.4.13
